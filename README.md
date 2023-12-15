@@ -8,11 +8,11 @@ Code will be uploaded before the end of December.
 
 ## Main Experimental Results
 
-![image-20231215102802032](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20231215102802032.png)
+![image](https://github.com/windygoo/PromptNucSeg/blob/main/src/pannuke_exp.png)
 
 
 
-![image-20231215102822939](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20231215102822939.png)
+![image](https://github.com/windygoo/PromptNucSeg/blob/main/src/kumar_cpm17_exp.png)
 
 
 
