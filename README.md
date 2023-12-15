@@ -6,7 +6,7 @@ Code will be uploaded before the end of December.
 
 
 
-## Main Experimental Results
+## Main Results
 
 ![image](https://github.com/windygoo/PromptNucSeg/blob/main/src/pannuke_exp.png)
 
