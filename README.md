@@ -10,10 +10,7 @@ Code will be uploaded before the end of December.
 
 ![image](https://github.com/windygoo/PromptNucSeg/blob/main/src/pannuke_exp.png)
 
-
-
-![image](https://github.com/windygoo/PromptNucSeg/blob/main/src/kumar_cpm17_exp.png)
-
+<div align=center><img src="https://github.com/windygoo/PromptNucSeg/blob/main/src/kumar_cpm17_exp.png"/></div>
 
 
 
