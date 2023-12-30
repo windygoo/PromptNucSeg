@@ -2,7 +2,7 @@
 
 Official implementation of our paper "Unleashing the Power of Prompt-driven Nucleus Instance Segmentation"
 
-Code and checkpoints will be uploaded before the end of December.
+Code and checkpoints will be uploaded soon.
 
 
 
