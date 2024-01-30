@@ -67,7 +67,7 @@ class DataFolder(Dataset):
         else:
             mask = np.load(f'../segmentor/{img_path.replace("Images", "Masks")[:-4]}.npy', allow_pickle=True)[()][
                         'inst_map']
-        mask = mask.astype(float)
+        mask = (mask > 0).astype(float)
 
         values.append(mask)
 
