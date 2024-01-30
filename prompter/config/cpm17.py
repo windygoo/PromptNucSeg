@@ -22,7 +22,7 @@ data = dict(
     batch_size_per_gpu=8,
     num_workers=8,
     train=dict(transform=[
-        dict(type='RandomCrop', height=256, width=256, p=1),
+        dict(type='RandomCrop', height=500, width=500, p=1),
         dict(type='RandomGridShuffle', grid=(4, 4), p=0.5),
         dict(type='ColorJitter', brightness=0.25, contrast=0.25, saturation=0.1, hue=0.05, p=0.2),
         dict(type='RandomRotate90', p=0.5),
