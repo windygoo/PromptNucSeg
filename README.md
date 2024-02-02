@@ -89,7 +89,8 @@ see [test.sh](https://github.com/windygoo/PromptNucSeg/blob/main/segmentor/test.
 | Segmentor-L | [OneDrive](https://westlakeu-my.sharepoint.com/:u:/g/personal/shuizhongyi_westlake_edu_cn/EYLBmedg0nlAp5dqitn8pxcBo_9OcRWHOKpzb5Q9g5f8Kw?e=kie9IK) | [OneDrive](https://westlakeu-my.sharepoint.com/:u:/g/personal/shuizhongyi_westlake_edu_cn/ET0D1YyinExLnum2L3y4soABiPgw_99AcocruqM4bw95pA?e=XVoDhq) | [OneDrive](https://westlakeu-my.sharepoint.com/:u:/g/personal/shuizhongyi_westlake_edu_cn/EWQ_o9jIIWVItezvJnpPmkEBQY38Agh0YGHlOHCQZGAIig?e=Foscbm) | [OneDrive](https://westlakeu-my.sharepoint.com/:u:/g/personal/shuizhongyi_westlake_edu_cn/EZ02oBK828dLo5P1Z1N9RV0BpzIum-8du7HXDCU4Ue8omg?e=Kt5v5r) | [OneDrive](https://westlakeu-my.sharepoint.com/:u:/g/personal/shuizhongyi_westlake_edu_cn/EWErh4qZWSxErgGGxZ_fQPQB3KXnGZ1iTJVtzwwn5sNJyg?e=8ZQo9m) |
 | Segmentor-H | [OneDrive](https://westlakeu-my.sharepoint.com/:u:/g/personal/shuizhongyi_westlake_edu_cn/EYCdndKjn4NJv3Qvebo4YsQBrUhU_Uu2tjtBucJH2SMdNQ?e=NThF4d) | [OneDrive](https://westlakeu-my.sharepoint.com/:u:/g/personal/shuizhongyi_westlake_edu_cn/Ebg9v0HaOFZIpyda-JKNST8B2AmnGdhgYQqjdLHYm4j5LA?e=ibANRv) | [OneDrive](https://westlakeu-my.sharepoint.com/:u:/g/personal/shuizhongyi_westlake_edu_cn/EZjmiotww1hHtF83WwJTVz0BAmfDNkuSuGbUXkthP3yvDQ?e=N45aU3) | [OneDrive](https://westlakeu-my.sharepoint.com/:u:/g/personal/shuizhongyi_westlake_edu_cn/EQG3IMH1OARPj67mapQoakYBjlkMzAKzQjYxPn425JiVeQ?e=6XrKmT) | [OneDrive](https://westlakeu-my.sharepoint.com/:u:/g/personal/shuizhongyi_westlake_edu_cn/EVj-vCQh5MVPqIT8ggkSJGsBeWv_MsrO9Ci3Lr7wuewW2A?e=qsa0Gd) |
 
-
+## Contact
+If you have any questions or concerns, feel free to report issues or directly contact us (Zhongyi Shui shuizhongyi@westlake.edu.cn).
 
 ## Citation
 
