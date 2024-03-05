@@ -112,11 +112,15 @@ def _build_sam(
     else:
         raise NotImplementedError(f"Unknown model type: {cfg.segmentor.type}")
 
+    if cfg.load_prompt_enc_path:
+        print("Loading prompt")
+        ckpt = 'checkpoint/pannuke123_b.pth'
+
     with open(ckpt, "rb") as f:
         pretrained_state_dict = torch.load(f, map_location='cpu')
 
         model_state_dict = sam.state_dict()
-        updated_state_dict = {k: v for k, v in pretrained_state_dict.items() if k in model_state_dict}
+        updated_state_dict = {k: v for k, v in pretrained_state_dict.items() if k in model_state_dict and not k.startswith("image_encoder.")}
         model_state_dict.update(updated_state_dict)
 
         sam.load_state_dict(model_state_dict)

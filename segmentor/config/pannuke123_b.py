@@ -1,5 +1,5 @@
 segmentor = dict(
-    # type='PromptNucSeg-B',
+    type='PromptNucSeg-B',
     img_size=256,
     patch_size=16,
     multimask=False
@@ -57,3 +57,5 @@ criterion = dict(
     loss_dice=1,
     loss_iou=1
 )
+
+load_prompt_enc_path = 'checkpoint/pannuke123_b.pth'
