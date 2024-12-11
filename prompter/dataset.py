@@ -79,7 +79,7 @@ class DataFolder(Dataset):
         img = res[0]
         labels = []
         for i in range(1, len(res) - 1):
-            res[i] = torch.tensor(res[i])
+            res[i] = torch.tensor(res[i]).view(-1, 2)
             labels.append(torch.full((len(res[i]),), i - 1))
         mask = res[-1]
         return img, torch.cat(res[1:-1]), torch.cat(labels), mask, torch.as_tensor(ori_shape)
