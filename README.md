@@ -50,9 +50,9 @@ torch 2.0.1, mmcv, mmdet
 
    ```shell
    cd prompter
-   python main.py --config dpa_pannuke123.py --output_dir dpa_pannuke123
-   # python main.py --config dpa_pannuke213.py --output_dir dpa_pannuke123
-   # python main.py --config dpa_pannuke321.py --output_dir dpa_pannuke123
+   python main.py --config dpa_pannuke123.py --output_dir dpa_pannuke123 --model-ema
+   # python main.py --config dpa_pannuke213.py --output_dir dpa_pannuke123 --model-ema
+   # python main.py --config dpa_pannuke321.py --output_dir dpa_pannuke123 --model-ema
    ```
 
 2. Use the trained prompter to generate nuclei prompts for the validation and test sets.
