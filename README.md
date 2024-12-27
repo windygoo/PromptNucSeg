@@ -97,11 +97,23 @@ If you have any questions or concerns, feel free to report issues or directly co
 If you find this code useful for your research, please cite us using the following BibTeX entry.
 
 ```bibtex
-@article{shui2023unleashing,
-  title={Unleashing the Power of Prompt-driven Nucleus Instance Segmentation},
-  author={Shui, Zhongyi and Zhang, Yunlong and Yao, Kai and Zhu, Chenglu and Sun, Yuxuan and Yang, Lin},
-  journal={arXiv preprint arXiv:2311.15939},
-  year={2023}
+@inproceedings{shui2024dpa,
+  title={DPA-P2PNet: Deformable Proposal-Aware P2PNet for Accurate Point-Based Cell Detection},
+  author={Shui, Zhongyi and Zheng, Sunyi and Zhu, Chenglu and Zhang, Shichuan and Yu, Xiaoxuan and Li, Honglin and Li, Jingxiong and Chen, Pingyi and Yang, Lin},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={38},
+  number={5},
+  pages={4864--4872},
+  year={2024}
+}
+
+@inproceedings{shui2025unleashing,
+  title={Unleashing the power of prompt-driven nucleus instance segmentation},
+  author={Shui, Zhongyi and Zhang, Yunlong and Yao, Kai and Zhu, Chenglu and Zheng, Sunyi and Li, Jingxiong and Li, Honglin and Sun, Yuxuan and Guo, Ruizhe and Yang, Lin},
+  booktitle={European Conference on Computer Vision},
+  pages={288--304},
+  year={2025},
+  organization={Springer}
 }
 ```
 
