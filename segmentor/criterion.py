@@ -42,8 +42,8 @@ class Criterion(nn.Module):
         pred_iou = outputs['pred_ious']
 
         loss_dict = {
-            'loss_focal': self.dice_loss(pred, true),
-            'loss_dice': self.focal_loss(pred, true.unsqueeze(1)),
+            'loss_focal': self.focal_loss(pred, true.unsqueeze(1)),
+            'loss_dice': self.dice_loss(pred, true),
             'loss_iou': self.iou_loss(pred, true.float(), pred_iou)
         }
 
